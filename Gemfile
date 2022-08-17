@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 gem 'resque', '~>1.19'
 # Add dependencies required to use your gem here.
